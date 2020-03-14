@@ -25,8 +25,8 @@ if (!is_null($events['events'])) {
 				//'type' => 'text',
 				//'text' => $text
 				'type' => 'image',
-				'originalContentUrl' => 'https://s.isanook.com/fi/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2ZpLzAvZnAvMjcyLzEzNjQzMDUvMV8xNTg0MDkyMTI3LmpwZw==.jpg',
-    		'previewImageUrl' =>  'https://s.isanook.com/hi/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2hpLzAvdWQvMjk5LzE0OTY5NjUvMi5qcGc=.jpg'
+				'originalContentUrl' => 'https://s.isanook.com/hi/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2hpLzAvdWQvMjk5LzE0OTY5NjUvMi5qcGc=.jpg',
+    		'previewImageUrl' =>  'https://s.isanook.com/fi/0/rp/rc/w165h99/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL2ZpLzAvZnAvMjcyLzEzNjQzMDUvMV8xNTg0MDkyMTI3LmpwZw==.jpg'
 			];
 
 			// Make a POST Request to Messaging API to reply to sender
